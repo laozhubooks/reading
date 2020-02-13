@@ -1,6 +1,6 @@
 # Table of contents
 
-* [阅读](README.md)
+* [《成长文摘》编者手抄](README.md)
 
 ## 人生篇
 
