@@ -8,10 +8,10 @@
 * [头上的星空和心中的道德律](ren-sheng-pian-zhi-guan-yu-zi-you/tou-shang-de-xing-kong-he-xin-zhong-de-dao-de-lv.md)
 * [容忍与自由](ren-sheng-pian-zhi-guan-yu-zi-you/rong-ren-yu-zi-you.md)
 * [胡适1935年说的一段话](ren-sheng-pian-zhi-guan-yu-zi-you/hu-kuo-1935-nian-shuo-de-yi-duan-hua.md)
-* [约翰·斯图亚特·密尔论自由](ren-sheng-pian-zhi-guan-yu-zi-you/yue-han-si-tu-ya-te-mi-er-lun-zi-you.md)
 * [托克维尔说自由](ren-sheng-pian-zhi-guan-yu-zi-you/tuo-ke-wei-er-shuo-zi-you.md)
 * [伯林说自由](ren-sheng-pian-zhi-guan-yu-zi-you/bo-lin-shuo-zi-you.md)
 * [阿克顿说自由](ren-sheng-pian-zhi-guan-yu-zi-you/e-ke-dun-shuo-zi-you.md)
+* [约翰·斯图亚特·密尔论自由](ren-sheng-pian-zhi-guan-yu-zi-you/yue-han-si-tu-ya-te-mi-er-lun-zi-you.md)
 
 ## 人生篇之关于工作 <a id="ren-sheng-pian"></a>
 
