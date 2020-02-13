@@ -8,6 +8,7 @@
 * [阅读](ren-sheng-pian/yue-du.md)
 * [容忍与自由](ren-sheng-pian/rong-ren-yu-zi-you.md)
 * [约翰·斯图亚特·密尔论自由](ren-sheng-pian/yue-han-si-tu-ya-te-mi-er-lun-zi-you.md)
+* [托克维尔说自由](ren-sheng-pian/tuo-ke-wei-er-shuo-zi-you.md)
 * [声](ren-sheng-pian/sheng.md)
 * [工作](ren-sheng-pian/gong-zuo.md)
 * [丑角是最严肃的人](ren-sheng-pian/chou-jiao-shi-zui-yan-su-de-ren.md)
