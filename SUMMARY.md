@@ -4,6 +4,7 @@
 
 ## 人生篇
 
+* [阅读](ren-sheng-pian/yue-du.md)
 * [容忍与自由](ren-sheng-pian/rong-ren-yu-zi-you.md)
 * [声](ren-sheng-pian/sheng.md)
 * [工作](ren-sheng-pian/gong-zuo.md)
