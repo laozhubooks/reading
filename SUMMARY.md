@@ -15,9 +15,9 @@
 
 ## 人生篇之关于工作 <a id="ren-sheng-pian"></a>
 
+* [工作](ren-sheng-pian/gong-zuo.md)
 * [阅读](ren-sheng-pian/yue-du.md)
 * [声](ren-sheng-pian/sheng.md)
-* [工作](ren-sheng-pian/gong-zuo.md)
 * [丑角是最严肃的人](ren-sheng-pian/chou-jiao-shi-zui-yan-su-de-ren.md)
 * [金螺旋](ren-sheng-pian/jin-luo-xuan.md)
 * [音乐是什么](ren-sheng-pian/yin-le-shi-shen-me.md)
