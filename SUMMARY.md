@@ -17,4 +17,5 @@
 
 * [物质概念必须修改](shi-jie-pian/wu-zhi-gai-nian-bi-xu-xiu-gai.md)
 * [文明一词的初创](wen-ming-yi-ci-de-chu-chuang.md)
+* [什么是政治](shi-jie-pian/shen-me-shi-zheng-zhi.md)
 
