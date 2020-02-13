@@ -4,6 +4,7 @@
 
 ## 人生篇
 
+* [罗素《自传》前言：“我为何而生”](ren-sheng-pian/luo-su-zi-chuan-qian-yan-wo-wei-he-er-sheng.md)
 * [阅读](ren-sheng-pian/yue-du.md)
 * [容忍与自由](ren-sheng-pian/rong-ren-yu-zi-you.md)
 * [声](ren-sheng-pian/sheng.md)
