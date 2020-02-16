@@ -20,6 +20,7 @@
 * [声](ren-sheng-pian/sheng.md)
 * [丑角是最严肃的人](ren-sheng-pian/chou-jiao-shi-zui-yan-su-de-ren.md)
 * [金螺旋](ren-sheng-pian/jin-luo-xuan.md)
+* [鲍林的回忆](ren-sheng-pian/bao-lin-de-hui-yi.md)
 * [启蒙](ren-sheng-pian/qi-meng.md)
 * [培养一名科学家](ren-sheng-pian/pei-yang-yi-ming-ke-xue-jia.md)
 * [音乐是什么](ren-sheng-pian/yin-le-shi-shen-me.md)
