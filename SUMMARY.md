@@ -24,6 +24,7 @@
 * [启蒙](ren-sheng-pian/qi-meng.md)
 * [培养一名科学家](ren-sheng-pian/pei-yang-yi-ming-ke-xue-jia.md)
 * [音乐是什么](ren-sheng-pian/yin-le-shi-shen-me.md)
+* [光荣的荆棘路](ren-sheng-pian/guang-rong-de-jing-ji-lu.md)
 
 ## 世界篇
 
