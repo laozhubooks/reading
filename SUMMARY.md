@@ -26,6 +26,10 @@
 * [音乐是什么](ren-sheng-pian/yin-le-shi-shen-me.md)
 * [光荣的荆棘路](ren-sheng-pian/guang-rong-de-jing-ji-lu.md)
 
+## 人生篇之少年心气
+
+* [敬畏青年](ren-sheng-pian-zhi-shao-nian-xin-qi/jing-wei-qing-nian.md)
+
 ## 世界篇
 
 * [物质概念必须修改](shi-jie-pian/wu-zhi-gai-nian-bi-xu-xiu-gai.md)
