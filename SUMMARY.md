@@ -36,4 +36,5 @@
 * [文明一词的初创](shi-jie-pian/wen-ming-yi-ci-de-chu-chuang.md)
 * [什么是政治](shi-jie-pian/shen-me-shi-zheng-zhi.md)
 * [哲学和政治](shi-jie-pian/zhe-xue-he-zheng-zhi.md)
+* [哲学、爱欲与暴政](shi-jie-pian/zhe-xue-ai-yu-yu-bao-zheng.md)
 
