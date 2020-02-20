@@ -39,3 +39,7 @@
 * [哲学和政治](shi-jie-pian/zhe-xue-he-zheng-zhi.md)
 * [哲学、爱欲与暴政](shi-jie-pian/zhe-xue-ai-yu-yu-bao-zheng.md)
 
+## 私人笔记
+
+* [新知卡片：艺术的重要性](si-ren-bi-ji/xin-zhi-ka-pian-yi-shu-de-zhong-yao-xing.md)
+
