@@ -38,13 +38,16 @@
 
 * [物质概念必须修改](shi-jie-pian/wu-zhi-gai-nian-bi-xu-xiu-gai.md)
 * [《费曼物理学讲义》摘抄](shi-jie-pian/fei-man-wu-li-xue-jiang-yi-zhai-chao.md)
-* [文明一词的初创](shi-jie-pian/wen-ming-yi-ci-de-chu-chuang.md)
-* [对现代的看法](shi-jie-pian/dui-xian-dai-de-kan-fa.md)
-* [什么是政治](shi-jie-pian/shen-me-shi-zheng-zhi.md)
-* [哲学和政治](shi-jie-pian/zhe-xue-he-zheng-zhi.md)
-* [哲学、爱欲与暴政](shi-jie-pian/zhe-xue-ai-yu-yu-bao-zheng.md)
 
 ## 私人笔记
 
 * [新知卡片：艺术的重要性](si-ren-bi-ji/xin-zhi-ka-pian-yi-shu-de-zhong-yao-xing.md)
+
+## 世界篇之人文科学
+
+* [文明一词的初创](shi-jie-pian-zhi-ren-wen-ke-xue/wen-ming-yi-ci-de-chu-chuang.md)
+* [对现代的看法](shi-jie-pian-zhi-ren-wen-ke-xue/dui-xian-dai-de-kan-fa.md)
+* [什么是政治](shi-jie-pian-zhi-ren-wen-ke-xue/shen-me-shi-zheng-zhi.md)
+* [哲学和政治](shi-jie-pian-zhi-ren-wen-ke-xue/zhe-xue-he-zheng-zhi.md)
+* [哲学、爱欲与暴政](shi-jie-pian-zhi-ren-wen-ke-xue/zhe-xue-ai-yu-yu-bao-zheng.md)
 
