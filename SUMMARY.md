@@ -12,6 +12,7 @@
 * [伯林说自由](ren-sheng-pian-zhi-guan-yu-zi-you/bo-lin-shuo-zi-you.md)
 * [阿克顿说自由](ren-sheng-pian-zhi-guan-yu-zi-you/e-ke-dun-shuo-zi-you.md)
 * [约翰·斯图亚特·密尔论自由](ren-sheng-pian-zhi-guan-yu-zi-you/yue-han-si-tu-ya-te-mi-er-lun-zi-you.md)
+* [个人道德和社会道德](ren-sheng-pian-zhi-guan-yu-zi-you/ge-ren-dao-de-he-she-hui-dao-de.md)
 
 ## 人生篇之关于工作 <a id="ren-sheng-pian"></a>
 
