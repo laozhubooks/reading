@@ -34,9 +34,10 @@
 * [敬畏青年](ren-sheng-pian-zhi-shao-nian-xin-qi/jing-wei-qing-nian.md)
 * [成年礼](ren-sheng-pian-zhi-shao-nian-xin-qi/cheng-nian-li.md)
 
-## 世界篇
+## 世界篇之自然科学 <a id="shi-jie-pian"></a>
 
 * [物质概念必须修改](shi-jie-pian/wu-zhi-gai-nian-bi-xu-xiu-gai.md)
+* [《费曼物理学讲义》摘抄](shi-jie-pian/fei-man-wu-li-xue-jiang-yi-zhai-chao.md)
 * [文明一词的初创](shi-jie-pian/wen-ming-yi-ci-de-chu-chuang.md)
 * [对现代的看法](shi-jie-pian/dui-xian-dai-de-kan-fa.md)
 * [什么是政治](shi-jie-pian/shen-me-shi-zheng-zhi.md)
