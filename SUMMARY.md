@@ -30,6 +30,7 @@
 
 * [论青年的不朽之感](ren-sheng-pian-zhi-shao-nian-xin-qi/lun-qing-nian-de-bu-xiu-zhi-gan.md)
 * [敬畏青年](ren-sheng-pian-zhi-shao-nian-xin-qi/jing-wei-qing-nian.md)
+* [成年礼](ren-sheng-pian-zhi-shao-nian-xin-qi/cheng-nian-li.md)
 
 ## 世界篇
 
