@@ -28,6 +28,7 @@
 
 ## 人生篇之少年心气
 
+* [论青年的不朽之感](ren-sheng-pian-zhi-shao-nian-xin-qi/lun-qing-nian-de-bu-xiu-zhi-gan.md)
 * [敬畏青年](ren-sheng-pian-zhi-shao-nian-xin-qi/jing-wei-qing-nian.md)
 
 ## 世界篇
