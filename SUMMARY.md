@@ -46,10 +46,12 @@
 
 ## 世界篇之人文科学
 
-* [文明一词的初创](shi-jie-pian/wen-ming-yi-ci-de-chu-chuang.md)
-* [对现代的看法](shi-jie-pian/dui-xian-dai-de-kan-fa.md)
-* [什么是政治](shi-jie-pian/shen-me-shi-zheng-zhi.md)
-* [哲学和政治](shi-jie-pian/zhe-xue-he-zheng-zhi.md)
-* [哲学、爱欲与暴政](shi-jie-pian/zhe-xue-ai-yu-yu-bao-zheng.md)
+* [文明一词的初创](shi-jie-pian-zhi-ren-wen-ke-xue/wen-ming-yi-ci-de-chu-chuang.md)
+* [对现代的看法](shi-jie-pian-zhi-ren-wen-ke-xue/dui-xian-dai-de-kan-fa.md)
+* [什么是政治](shi-jie-pian-zhi-ren-wen-ke-xue/shen-me-shi-zheng-zhi.md)
+* [哲学和政治](shi-jie-pian-zhi-ren-wen-ke-xue/zhe-xue-he-zheng-zhi.md)
+* [哲学、爱欲与暴政](shi-jie-pian-zhi-ren-wen-ke-xue/zhe-xue-ai-yu-yu-bao-zheng.md)
 * [东方和西方的思想（三则）](shi-jie-pian-zhi-ren-wen-ke-xue/dong-fang-he-xi-fang-de-si-xiang-san-ze.md)
+* [商人](shi-jie-pian-zhi-ren-wen-ke-xue/shang-ren.md)
+* [钱穆说“士”](shi-jie-pian-zhi-ren-wen-ke-xue/qian-mu-shuo-shi.md)
 
