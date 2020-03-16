@@ -57,3 +57,7 @@
 * [商人](shi-jie-pian-zhi-ren-wen-ke-xue/shang-ren.md)
 * [钱穆说“士”](shi-jie-pian-zhi-ren-wen-ke-xue/qian-mu-shuo-shi.md)
 
+## 人生篇之关于阅读
+
+* [读书苦乐](ren-sheng-pian-zhi-guan-yu-yue-du/du-shu-ku-le.md)
+
