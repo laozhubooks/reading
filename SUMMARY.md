@@ -37,6 +37,7 @@
 * [北方人的巴赫](ren-sheng-pian/bei-fang-ren-de-ba-he.md)
 * [光荣的荆棘路](ren-sheng-pian/guang-rong-de-jing-ji-lu.md)
 * [今天的云抄袭昨天的云](ren-sheng-pian/jin-tian-de-yun-chao-xi-zuo-tian-de-yun.md)
+* [渐](ren-sheng-pian/jian.md)
 
 ## 人生篇之少年心气
 
