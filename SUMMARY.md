@@ -9,6 +9,7 @@
 * [一个人应该怎样读书](ren-sheng-pian-zhi-guan-yu-yue-du/yi-ge-ren-ying-gai-zen-yang-du-shu.md)
 * [阅读](ren-sheng-pian-zhi-guan-yu-yue-du/yue-du.md)
 * [书籍](ren-sheng-pian-zhi-guan-yu-yue-du/shu-ji.md)
+* [失明](ren-sheng-pian-zhi-guan-yu-yue-du/shi-ming.md)
 
 ## 人生篇之关于自由
 
