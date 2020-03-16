@@ -34,6 +34,7 @@
 * [论青年的不朽之感](ren-sheng-pian-zhi-shao-nian-xin-qi/lun-qing-nian-de-bu-xiu-zhi-gan.md)
 * [敬畏青年](ren-sheng-pian-zhi-shao-nian-xin-qi/jing-wei-qing-nian.md)
 * [成年礼](ren-sheng-pian-zhi-shao-nian-xin-qi/cheng-nian-li.md)
+* [燃亮蜡烛而不只是诅咒黑暗：致全世界儿童的一封信](ren-sheng-pian-zhi-shao-nian-xin-qi/ran-liang-la-zhu-er-bu-zhi-shi-zu-zhou-hei-an-zhi-quan-shi-jie-er-tong-de-yi-feng-xin.md)
 
 ## 世界篇之自然科学 <a id="shi-jie-pian"></a>
 
