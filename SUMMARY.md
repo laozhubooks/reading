@@ -1,6 +1,7 @@
 # Table of contents
 
 * [《成长文摘》编者手抄](README.md)
+* [我怀念成长](wo-huai-nian-cheng-chang.md)
 
 ## 人生篇之关于自由
 
