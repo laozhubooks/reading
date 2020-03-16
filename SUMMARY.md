@@ -3,6 +3,10 @@
 * [《成长文摘》编者手抄](README.md)
 * [我怀念成长](wo-huai-nian-cheng-chang.md)
 
+## 人生篇之关于阅读
+
+* [读书苦乐](ren-sheng-pian-zhi-guan-yu-yue-du/du-shu-ku-le.md)
+
 ## 人生篇之关于自由
 
 * [罗素《自传》前言：“我为何而生”](ren-sheng-pian-zhi-guan-yu-zi-you/luo-su-zi-chuan-qian-yan-wo-wei-he-er-sheng.md)
@@ -56,8 +60,4 @@
 * [东方和西方的思想（三则）](shi-jie-pian-zhi-ren-wen-ke-xue/dong-fang-he-xi-fang-de-si-xiang-san-ze.md)
 * [商人](shi-jie-pian-zhi-ren-wen-ke-xue/shang-ren.md)
 * [钱穆说“士”](shi-jie-pian-zhi-ren-wen-ke-xue/qian-mu-shuo-shi.md)
-
-## 人生篇之关于阅读
-
-* [读书苦乐](ren-sheng-pian-zhi-guan-yu-yue-du/du-shu-ku-le.md)
 
