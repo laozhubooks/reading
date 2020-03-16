@@ -50,6 +50,7 @@
 * [物质概念必须修改](shi-jie-pian/wu-zhi-gai-nian-bi-xu-xiu-gai.md)
 * [《费曼物理学讲义》摘抄](shi-jie-pian/fei-man-wu-li-xue-jiang-yi-zhai-chao.md)
 * [世界七大奇观新说](shi-jie-pian/shi-jie-qi-da-qi-guan-xin-shuo.md)
+* [软体动物史与世界经济](shi-jie-pian/ruan-ti-dong-wu-shi-yu-shi-jie-jing-ji.md)
 
 ## 私人笔记
 
