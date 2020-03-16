@@ -43,6 +43,7 @@
 * [成年礼](ren-sheng-pian-zhi-shao-nian-xin-qi/cheng-nian-li.md)
 * [燃亮蜡烛而不只是诅咒黑暗：致全世界儿童的一封信](ren-sheng-pian-zhi-shao-nian-xin-qi/ran-liang-la-zhu-er-bu-zhi-shi-zu-zhou-hei-an-zhi-quan-shi-jie-er-tong-de-yi-feng-xin.md)
 * [时间（Time）](ren-sheng-pian-zhi-shao-nian-xin-qi/shi-jian-time.md)
+* [奇迹\(miraculousness\)](ren-sheng-pian-zhi-shao-nian-xin-qi/qi-ji-miraculousness.md)
 
 ## 世界篇之自然科学 <a id="shi-jie-pian"></a>
 
