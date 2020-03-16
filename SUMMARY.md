@@ -7,6 +7,7 @@
 
 * [读书苦乐](ren-sheng-pian-zhi-guan-yu-yue-du/du-shu-ku-le.md)
 * [一个人应该怎样读书](ren-sheng-pian-zhi-guan-yu-yue-du/yi-ge-ren-ying-gai-zen-yang-du-shu.md)
+* [阅读](ren-sheng-pian-zhi-guan-yu-yue-du/yue-du.md)
 
 ## 人生篇之关于自由
 
@@ -23,7 +24,6 @@
 ## 人生篇之关于工作 <a id="ren-sheng-pian"></a>
 
 * [工作](ren-sheng-pian/gong-zuo.md)
-* [阅读](ren-sheng-pian/yue-du.md)
 * [声](ren-sheng-pian/sheng.md)
 * [丑角是最严肃的人](ren-sheng-pian/chou-jiao-shi-zui-yan-su-de-ren.md)
 * [金螺旋](ren-sheng-pian/jin-luo-xuan.md)
