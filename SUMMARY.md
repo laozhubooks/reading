@@ -64,6 +64,7 @@
 * [软体动物史与世界经济](shi-jie-pian/ruan-ti-dong-wu-shi-yu-shi-jie-jing-ji.md)
 * [关键在于平衡](shi-jie-pian/guan-jian-zai-yu-ping-heng.md)
 * [进化过程中的历史遗留问题](shi-jie-pian/jin-hua-guo-cheng-zhong-de-li-shi-yi-liu-wen-ti.md)
+* [文明病](shi-jie-pian/wen-ming-bing.md)
 
 ## 私人笔记
 
