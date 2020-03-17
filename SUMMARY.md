@@ -81,4 +81,5 @@
 * [东方和西方的思想（三则）](shi-jie-pian-zhi-ren-wen-ke-xue/dong-fang-he-xi-fang-de-si-xiang-san-ze.md)
 * [商人](shi-jie-pian-zhi-ren-wen-ke-xue/shang-ren.md)
 * [钱穆说“士”](shi-jie-pian-zhi-ren-wen-ke-xue/qian-mu-shuo-shi.md)
+* [世界史的性质——《全球通史》引言](shi-jie-pian-zhi-ren-wen-ke-xue/shi-jie-shi-de-xing-zhi-quan-qiu-tong-shi-yin-yan.md)
 
