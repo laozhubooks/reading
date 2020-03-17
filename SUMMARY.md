@@ -61,6 +61,7 @@
 * [要使科学造福人类，而不成为祸害](shi-jie-pian/yao-shi-ke-xue-zao-fu-ren-lei-er-bu-cheng-wei-huo-hai.md)
 * [世界七大奇观新说](shi-jie-pian/shi-jie-qi-da-qi-guan-xin-shuo.md)
 * [关于语言和说话](shi-jie-pian/guan-yu-yu-yan-he-shuo-hua.md)
+* [生命是以物理学定律为基础的吗？](shi-jie-pian/sheng-ming-shi-yi-wu-li-xue-ding-lv-wei-ji-chu-de-ma.md)
 * [软体动物史与世界经济](shi-jie-pian/ruan-ti-dong-wu-shi-yu-shi-jie-jing-ji.md)
 * [关键在于平衡](shi-jie-pian/guan-jian-zai-yu-ping-heng.md)
 * [进化过程中的历史遗留问题](shi-jie-pian/jin-hua-guo-cheng-zhong-de-li-shi-yi-liu-wen-ti.md)
