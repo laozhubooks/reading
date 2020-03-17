@@ -62,6 +62,7 @@
 ## 私人笔记
 
 * [新知卡片：艺术的重要性](si-ren-bi-ji/xin-zhi-ka-pian-yi-shu-de-zhong-yao-xing.md)
+* [历史边角：20世纪初的和平主义论调](si-ren-bi-ji/li-shi-bian-jiao-20-shi-ji-chu-de-he-ping-zhu-yi-lun-tiao.md)
 
 ## 世界篇之人文科学
 
