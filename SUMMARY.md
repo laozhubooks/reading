@@ -59,6 +59,7 @@
 * [《费曼物理学讲义》摘抄](shi-jie-pian/fei-man-wu-li-xue-jiang-yi-zhai-chao.md)
 * [科学的价值](shi-jie-pian/ke-xue-de-jia-zhi.md)
 * [要使科学造福人类，而不成为祸害](shi-jie-pian/yao-shi-ke-xue-zao-fu-ren-lei-er-bu-cheng-wei-huo-hai.md)
+* [神圣的黑暗](shi-jie-pian/shen-sheng-de-hei-an.md)
 * [世界七大奇观新说](shi-jie-pian/shi-jie-qi-da-qi-guan-xin-shuo.md)
 * [关于语言和说话](shi-jie-pian/guan-yu-yu-yan-he-shuo-hua.md)
 * [生命是以物理学定律为基础的吗？](shi-jie-pian/sheng-ming-shi-yi-wu-li-xue-ding-lv-wei-ji-chu-de-ma.md)
