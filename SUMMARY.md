@@ -57,6 +57,7 @@
 * [现代物理学中的语言和实在](shi-jie-pian/xian-dai-wu-li-xue-zhong-de-yu-yan-he-shi-zai.md)
 * [量子物理学和哲学──因果性和互补性](shi-jie-pian/liang-zi-wu-li-xue-he-zhe-xue-yin-guo-xing-he-hu-bu-xing.md)
 * [《费曼物理学讲义》摘抄](shi-jie-pian/fei-man-wu-li-xue-jiang-yi-zhai-chao.md)
+* [科学的价值](shi-jie-pian/ke-xue-de-jia-zhi.md)
 * [世界七大奇观新说](shi-jie-pian/shi-jie-qi-da-qi-guan-xin-shuo.md)
 * [关于语言和说话](shi-jie-pian/guan-yu-yu-yan-he-shuo-hua.md)
 * [软体动物史与世界经济](shi-jie-pian/ruan-ti-dong-wu-shi-yu-shi-jie-jing-ji.md)
