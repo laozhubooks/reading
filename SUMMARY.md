@@ -79,6 +79,7 @@
 
 ## 世界篇之人文科学
 
+* [哲学·科学·宗教——罗素答W·魏亚特问](shi-jie-pian-zhi-ren-wen-ke-xue/zhe-xue-ke-xue-zong-jiao-luo-su-dawwei-ya-te-wen.md)
 * [文明一词的初创](shi-jie-pian-zhi-ren-wen-ke-xue/wen-ming-yi-ci-de-chu-chuang.md)
 * [对现代的看法](shi-jie-pian-zhi-ren-wen-ke-xue/dui-xian-dai-de-kan-fa.md)
 * [什么是政治](shi-jie-pian-zhi-ren-wen-ke-xue/shen-me-shi-zheng-zhi.md)
