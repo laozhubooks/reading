@@ -74,6 +74,7 @@
 * [历史边角：中国近代史上的一句名言](si-ren-bi-ji/li-shi-bian-jiao-zhong-guo-jin-dai-shi-shang-de-yi-ju-ming-yan.md)
 * [热词汇：另类（alternative）](si-ren-bi-ji/re-ci-hui-ling-lei-alternative.md)
 * [历史边角：幽默（Humour）一词的来源](si-ren-bi-ji/li-shi-bian-jiao-you-mo-humour-yi-ci-de-lai-yuan.md)
+* [历史边角：慈禧太后因何下决心向11国宣战](si-ren-bi-ji/li-shi-bian-jiao-ci-xi-tai-hou-yin-he-xia-jue-xin-xiang-11-guo-xuan-zhan.md)
 
 ## 世界篇之人文科学
 
