@@ -58,6 +58,7 @@
 * [量子物理学和哲学──因果性和互补性](shi-jie-pian/liang-zi-wu-li-xue-he-zhe-xue-yin-guo-xing-he-hu-bu-xing.md)
 * [《费曼物理学讲义》摘抄](shi-jie-pian/fei-man-wu-li-xue-jiang-yi-zhai-chao.md)
 * [世界七大奇观新说](shi-jie-pian/shi-jie-qi-da-qi-guan-xin-shuo.md)
+* [关于语言和说话](shi-jie-pian/guan-yu-yu-yan-he-shuo-hua.md)
 * [软体动物史与世界经济](shi-jie-pian/ruan-ti-dong-wu-shi-yu-shi-jie-jing-ji.md)
 * [关键在于平衡](shi-jie-pian/guan-jian-zai-yu-ping-heng.md)
 * [进化过程中的历史遗留问题](shi-jie-pian/jin-hua-guo-cheng-zhong-de-li-shi-yi-liu-wen-ti.md)
