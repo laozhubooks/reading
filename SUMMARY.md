@@ -64,6 +64,7 @@
 * [新知卡片：艺术的重要性](si-ren-bi-ji/xin-zhi-ka-pian-yi-shu-de-zhong-yao-xing.md)
 * [历史边角：20世纪初的和平主义论调](si-ren-bi-ji/li-shi-bian-jiao-20-shi-ji-chu-de-he-ping-zhu-yi-lun-tiao.md)
 * [历史边角：中国近代史上的一句名言](si-ren-bi-ji/li-shi-bian-jiao-zhong-guo-jin-dai-shi-shang-de-yi-ju-ming-yan.md)
+* [热词汇：另类（alternative）](si-ren-bi-ji/re-ci-hui-ling-lei-alternative.md)
 
 ## 世界篇之人文科学
 
